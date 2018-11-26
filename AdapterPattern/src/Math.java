@@ -11,6 +11,14 @@ public class Math {
 		 return num/2;
 	 }
 	 
+	 
+	//-5
+	public static double minus5(double num) {
+			 return num-5;
+	}
+		 
+	 
+	 
 	 //강화된 알고리즘
 	 public static Double doubled(Double d) {
 		 return d*2;
